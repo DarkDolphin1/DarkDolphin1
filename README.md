@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shravan 👋
 
-<!--
-**DarkDolphin1/DarkDolphin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Chaos is the law of nature, Order is the dream of man.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Learning how software works, inside and out
+- Currently focused on ** Backend and core computer science fundamentals**
+- I prefer **understanding how things work** over blindly using abstractions
+- Building projects slowly, properly
+
+---
+
+## Tech Stack
+**Languages**
+- C / C++
+- Java
+- JavaScript
+- HTML & CSS
+- Bash
+**Tools**
+- Linux 
+- Docker
+
+**Currently Learning**
+- Backend development
+- AOSP 
+
+---
+
+## Projects
+> Selected things I’ve built or am actively working on.
+
+- **Locksmith** – E2EE messaging protocol , written purely in C++
+- **Compresso** - A simple file compression utility
+
+---
+- Build → break → rebuild
+
+
