@@ -7,7 +7,6 @@
 ## About Me
 - Learning how software works, inside and out
 - Currently focused on **Backend Development**
-- I prefer **understanding how things work** over blindly using abstractions
 - Building projects slowly, properly
 
 ---
@@ -43,6 +42,6 @@
 - **Compresso** - A simple file compression utility
 
 ---
-- Build → break → rebuild
+- let's dissect some systems
 
 
