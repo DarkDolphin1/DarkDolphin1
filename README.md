@@ -2,11 +2,11 @@
 
   <img 
     src="photo_2026-02-25_23-09-33.jpg" 
-    width="480"
+    width="720"
     style="flex-shrink: 0;"
   />
 
-<pre>
+```console
 darkDolphin1@github
 -------------------------
 OS       : Arch Linux
@@ -15,7 +15,7 @@ RAM      : 16GB
 WM       : Hyprland
 Terminal : alacritty 0.16.1
 Editor   : VS Code / Neovim
-</pre>
+```
 
 </div>
 
