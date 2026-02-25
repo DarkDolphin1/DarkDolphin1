@@ -2,7 +2,7 @@
 
   <img 
     src="photo_2026-02-25_23-09-33.jpg" 
-    width="720"
+    width="480"
     style="flex-shrink: 0;"
   />
 
