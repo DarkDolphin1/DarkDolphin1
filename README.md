@@ -6,15 +6,7 @@
     style="flex-shrink: 0;"
   />
 
-  <div style="
-    flex: 1;
-    font-family: monospace;
-    white-space: pre;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 20px;
-    background-color: #0d1117;
-  ">
+<pre>
 darkDolphin1@github
 -------------------------
 OS       : Arch Linux
@@ -23,7 +15,7 @@ RAM      : 16GB
 WM       : Hyprland
 Terminal : alacritty 0.16.1
 Editor   : VS Code / Neovim
-  </div>
+</pre>
 
 </div>
 
@@ -50,7 +42,7 @@ stella@starlet ~
 ```
 
   <ul>
-    <li style="font-size:16; list-style:none">Time to face some linker errors :D</li>
+    <li style="font-size:16;font-weight:bold; list-style:none">Time to face some linker errors :D</li>
   </ul>
 </div>
 
