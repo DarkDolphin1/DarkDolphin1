@@ -1,16 +1,60 @@
-# Hi, I'm Shravan 👋
+<div style="display: flex; align-items: flex-start; gap: 24px;">
 
-> *Chaos is the law of nature, Order is the dream of man.*
+  <img 
+    src="photo_2026-02-25_23-09-33.jpg" 
+    width="480"
+    style="flex-shrink: 0;"
+  />
 
----
+  <div style="
+    flex: 1;
+    font-family: monospace;
+    white-space: pre;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #0d1117;
+  ">
+darkDolphin1@github
+-------------------------
+OS       : Arch Linux
+Shell    : fish 4.5.0
+RAM      : 16GB
+WM       : Hyprland
+Terminal : alacritty 0.16.1
+Editor   : VS Code / Neovim
+  </div>
 
-## About Me
-- Learning how software works, inside and out
-- Currently focused on **Backend Development**
-- I prefer **understanding how things work** over blindly using abstractions
-- Building projects slowly, properly
+</div>
 
----
+
+```console
+stella@starlet ~ 
+> whoami
+ 
+Shravan
+```
+
+```
+stella@starlet ~ 
+❯ ./sayHello.sh | cowsay
+ _________________________________________
+/ "Can you program?" "Well, I'm literate, \
+\ if that's what you mean!"               /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+  <ul>
+    <li style="font-size:16; list-style:none">Time to face some linker errors :D</li>
+  </ul>
+</div>
+
+<!-- ---
 ### Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,7 +62,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+<!-- 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,17 +76,6 @@
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## Projects
-> Selected things I’ve built or am actively working on.
-
-- **Locksmith** – E2EE messaging protocol , written purely in C++
-- **Compresso** - A simple file compression utility
-
----
-- Build → break → rebuild
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 
