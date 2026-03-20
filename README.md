@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: flex-start; gap: 24px;">
 
   <img 
-    src="photo_2026-02-25_23-09-33.jpg" 
-    width="480"
+    src="fern.jpg" 
+    height="240"
     style="flex-shrink: 0;"
   />
 

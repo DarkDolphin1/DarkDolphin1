@@ -85,3 +85,66 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
+ ______________________________________
+/ Zippy's brain cells are straining to \
+\ bridge synapses ...                  /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ _________________________________________
+/ Next Friday will not be your lucky day. \
+| As a matter of fact, you don't have a   |
+\ lucky day this year.                    /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ ________________________________________
+/ Too much of anything, even love, isn't \
+| necessarily a good thing.              |
+|                                        |
+| -- Kirk, "The Trouble with Tribbles",  |
+\ stardate 4525.6                        /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ _______________________________________
+/ You're either part of the solution or \
+| part of the problem.                  |
+|                                       |
+\ -- Eldridge Cleaver                   /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ _________________________________________
+/ Remember, an int is not always 16 bits. \
+| I'm not sure, but if the 80386 is one   |
+| step closer to Intel's slugfest with    |
+| the CPU curve that is asymptotically    |
+| approaching a real machine, perhaps an  |
+| int has been implemented as 32 bits by  |
+| some Unix vendors...?                   |
+|                                         |
+\ -- Derek Terveer                        /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
