@@ -35,7 +35,7 @@ def main():
     t.gen_text("Initiating Boot Sequence ", 1, contin=True)
     t.gen_typing_text(".....", 1, contin=True)
     
-    os_logo_text = "DARK DOLPHIN OS"
+    os_logo_text = "darkDolphin"
     mid_row = (t.num_rows + 1) // 2
     mid_col = (t.num_cols - len(os_logo_text) + 1) // 2
     effect_lines = gifos.effects.text_scramble_effect_lines(
@@ -43,8 +43,8 @@ def main():
     )
     for i in range(len(effect_lines)):
         t.delete_row(mid_row)
-        t.gen_text(effect_lines[i], mid_row, mid_col)
-    t.gen_text(os_logo_text, mid_row, mid_col, count=10)
+        t.gen_text(f"\x1b[96m{effect_lines[i]}\x1b[0m", mid_row, mid_col)
+    t.gen_text(f"\x1b[96m{os_logo_text}\x1b[0m", mid_row, mid_col, count=10)
     t.clear_frame()
     
     # --- LOGIN SECTION ---
