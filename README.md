@@ -6,9 +6,6 @@
     style="flex-shrink: 0;"
   />
 
-  <div style="flex-grow: 1; padding: 20px; font-style: italic; border-left: 4px solid #444; color: #888;">
-    "If at first you don't succeed, you must be a programmer."
-  </div>
 
   <img 
     src="output.gif" 
