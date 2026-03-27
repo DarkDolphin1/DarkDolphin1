@@ -24,7 +24,7 @@ def main():
     
     t.gen_text(text="", row_num=13)
     t.gen_text(text="stella@starlet ~", row_num=14)
-    t.gen_text(text="❯ ./sayHello.sh | cowsay", row_num=15)
+    t.gen_text(text="> ./sayHello.sh | cowsay", row_num=15)
     t.gen_text(text=" _________________________________________", row_num=16)
     t.gen_text(text="/ \"Can you program?\" \"Well, I'm literate, \\", row_num=17)
     t.gen_text(text="\\ if that's what you mean!\"               /", row_num=18)
