@@ -12,8 +12,9 @@
 
   <img 
     src="output.gif" 
-    height="240"
     alt="Terminal Profile"
+    width="100%"
+    style="max-width: 800px;"
   />
 
 </div>

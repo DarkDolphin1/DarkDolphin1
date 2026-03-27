@@ -7,7 +7,7 @@ def main():
     # We'll use 10 FPS for a slower animation (set via env or just assume default is 15 and we can't easily change it without config file, 
     # but x0rzavi's main.py didn't specify FPS in constructor. Wait, I'll check if I can set it via env in the workflow).
     
-    t = gifos.Terminal(600, 500, 20, 20)
+    t = gifos.Terminal(800, 600, 25, 25, font_size=20, line_spacing=6)
     
     # --- BIOS BOOT SECTION ---
     t.gen_text("", 1, count=10) # Initial wait
