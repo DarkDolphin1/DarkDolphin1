@@ -3,7 +3,7 @@ import os
 
 def main():
     # Initialize terminal
-    t = gifos.Terminal(width=500, height=300, xpad=15, ypad=15)
+    t = gifos.Terminal(width=600, height=500, xpad=20, ypad=20)
     
     # Set color scheme if desired (default is 'yoru')
     # t.set_color_scheme('dracula')
@@ -22,14 +22,27 @@ def main():
     t.gen_text(text="> whoami", row_num=11)
     t.gen_text(text="Shravan", row_num=12)
     
+    t.gen_text(text="", row_num=13)
+    t.gen_text(text="stella@starlet ~", row_num=14)
+    t.gen_text(text="❯ ./sayHello.sh | cowsay", row_num=15)
+    t.gen_text(text=" _________________________________________", row_num=16)
+    t.gen_text(text="/ \"Can you program?\" \"Well, I'm literate, \\", row_num=17)
+    t.gen_text(text="\\ if that's what you mean!\"               /", row_num=18)
+    t.gen_text(text=" -----------------------------------------", row_num=19)
+    t.gen_text(text="        \\   ^__^", row_num=20)
+    t.gen_text(text="         \\  (oo)\\_______", row_num=21)
+    t.gen_text(text="            (__)\\       )\\/\\", row_num=22)
+    t.gen_text(text="                ||----w |", row_num=23)
+    t.gen_text(text="                ||     ||", row_num=24)
+
     # Optional: Fetch GitHub stats if token is available
     if os.getenv("GITHUB_TOKEN"):
         try:
             stats = gifos.utils.fetch_github_stats(user_name="darkDolphin1")
-            t.gen_text(text="", row_num=13)
-            t.gen_text(text=f"> GitHub Stats:", row_num=14)
-            t.gen_text(text=f"  Total Stars: {stats.total_stars}", row_num=15)
-            t.gen_text(text=f"  Total Commits: {stats.total_commits}", row_num=16)
+            t.gen_text(text="", row_num=25)
+            t.gen_text(text=f"GitHub Stats for {stats.account_name}:", row_num=26)
+            t.gen_text(text=f"  Stars: {stats.total_stars} | Commits: {stats.total_commits}", row_num=27)
+            t.gen_text(text=f"  Followers: {stats.followers} | Following: {stats.following}", row_num=28)
         except Exception as e:
             print(f"Error fetching stats: {e}")
 

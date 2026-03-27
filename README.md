@@ -15,20 +15,6 @@
 </div>
 
 
-```
-stella@starlet ~ 
-❯ ./sayHello.sh | cowsay
- _________________________________________
-/ "Can you program?" "Well, I'm literate, \
-\ if that's what you mean!"               /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
   <ul>
     <li style="font-size:16;font-weight:bold; list-style:none">Time to face some linker errors :D</li>
   </ul>
