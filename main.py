@@ -30,6 +30,22 @@ def main():
     
     t.gen_text("Booting from SSD...", 13, count=10)
     t.clear_frame()
+
+    # --- LOGO ANIMATION ---
+    t.gen_text("Initiating Boot Sequence ", 1, contin=True)
+    t.gen_typing_text(".....", 1, contin=True)
+    
+    os_logo_text = "DARK DOLPHIN OS"
+    mid_row = (t.num_rows + 1) // 2
+    mid_col = (t.num_cols - len(os_logo_text) + 1) // 2
+    effect_lines = gifos.effects.text_scramble_effect_lines(
+        os_logo_text, 10, include_special=True
+    )
+    for i in range(len(effect_lines)):
+        t.delete_row(mid_row)
+        t.gen_text(effect_lines[i], mid_row, mid_col)
+    t.gen_text(os_logo_text, mid_row, mid_col, count=10)
+    t.clear_frame()
     
     # --- LOGIN SECTION ---
     t.toggle_show_cursor(False)
