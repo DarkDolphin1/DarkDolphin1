@@ -6,26 +6,14 @@
     style="flex-shrink: 0;"
   />
 
-```console
-darkDolphin1@github
--------------------------
-OS       : Arch Linux
-Shell    : fish 4.5.0
-RAM      : 16GB
-WM       : Hyprland
-Terminal : alacritty 0.16.1
-Editor   : VS Code / Neovim
-```
+  <img 
+    src="output.gif" 
+    height="240"
+    alt="Terminal Profile"
+  />
 
 </div>
 
-
-```console
-stella@starlet ~ 
-> whoami
- 
-Shravan
-```
 
 ```
 stella@starlet ~ 
