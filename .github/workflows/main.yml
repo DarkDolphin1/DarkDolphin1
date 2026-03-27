@@ -35,7 +35,6 @@ jobs:
     - name: Update README GIF
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GIFOS_GENERAL_FPS: 10
       run: python main.py
 
     - name: Commit and push changes
