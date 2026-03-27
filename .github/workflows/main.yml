@@ -2,7 +2,7 @@ name: Update Terminal Profile GIF
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, test ]
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
