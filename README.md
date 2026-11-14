@@ -1,6 +1,5 @@
 <p align="center">
-  <b>Backend Developer</b> &nbsp;•&nbsp; <b>System Architect</b> &nbsp;•&nbsp; <b>Open Source Contributor</b><br>
-  <sub>Android Platform Development &nbsp;•&nbsp; Kernel Development</sub>
+  <b>Backend Developer</b> &nbsp;•&nbsp; <b>System Architect</b> &nbsp;•&nbsp; <b>Open Source Contributor</b> &nbsp;•&nbsp; <sub>Android Platform Development</sub> &nbsp;•&nbsp; <sub>Kernel Development</sub>
 </p>
 
 <p align="center">
