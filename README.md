@@ -1,7 +1,10 @@
-<div align="center">
-  <b>Backend Developer</b> &nbsp;•&nbsp; <b>System Architect</b> &nbsp;•&nbsp; <b>Open Source Contributor</b><br>
-  <sub>Android Platform Development &nbsp;•&nbsp; Kernel Development</sub>
-</div>
+<h3 align="center">
+  Backend Developer &nbsp;•&nbsp; System Architect &nbsp;•&nbsp; Open Source Contributor
+</h3>
+
+<p align="center">
+  <b>Android Platform Development</b> &nbsp;•&nbsp; <b>Kernel Development</b>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DarkDolphin1&style=for-the-badge&color=blue" alt="Profile Views" />
